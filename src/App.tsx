@@ -21,6 +21,17 @@ const initialData: Product[] = [
   { id: 13, name: "Mia", age: 24 },
   { id: 14, name: "Nathan", age: 36 },
   { id: 15, name: "Olivia", age: 32 },
+  { id: 16, name: "Peter", age: 34 },
+  { id: 17, name: "Quinn", age: 21 },
+  { id: 18, name: "Rachel", age: 37 },
+  { id: 19, name: "Samuel", age: 42 },
+  { id: 20, name: "Tina", age: 23 },
+  { id: 21, name: "Umar", age: 39 },
+  { id: 22, name: "Victor", age: 27 },
+  { id: 23, name: "Wendy", age: 30 },
+  { id: 24, name: "Xavier", age: 26 },
+  { id: 25, name: "Yasmine", age: 29 },
+  { id: 26, name: "Zane", age: 35 },
 ];
 
 
