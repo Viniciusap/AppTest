@@ -1,18 +1,16 @@
 .header {
-    width: 100%;
-    background-color: #665453;
-    color: white;
-    padding: 15px 30px;
-    font-size: 24px;
-    font-weight: bold;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 100;
-  }
-  
-  
-  .project-name {
-    margin-left: 0;
-  }
-  
+  width: 100%;
+  background-color: #919191;
+  color: white;
+  padding: 15px 30px;
+  font-size: 24px;
+  font-weight: bold;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+
+.project-name {
+  margin-left: 0;
+}
